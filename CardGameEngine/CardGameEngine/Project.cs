@@ -60,7 +60,6 @@ namespace CardGameEngine {
 
 		private Project(string name) {
 			this.name = name;
-
 			Saved = false;
 		}
 	}
